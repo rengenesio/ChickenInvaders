@@ -1,9 +1,13 @@
 ChickenInvaders
 ===============
 
-Space Invaders game written in Java with Javax.Swing (unfinished project)
+(Para instruções em português (Brasil), veja arquivo REAMDE_por.md)
+
+Space Invaders game written in Java using Swing GUI (unfinished project)
 
 
-Usage
-------
+-------------
+Instructions 
+-------------
+
 Import the directory in your Java IDE and run.
